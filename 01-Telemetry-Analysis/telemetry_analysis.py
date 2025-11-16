@@ -138,5 +138,3 @@ fig.text(0.5, 0.02,
 
 plt.tight_layout()
 plt.show()
-
-print("ANALYSIS COMPLETE")
