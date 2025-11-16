@@ -23,7 +23,6 @@ Create a classification system to identify and prioritize gender pay inequality 
 - **Python 3.x**
 - **Pandas** - Data analysis
 - **Matplotlib** - Multi-panel dashboard visualization
-- **NumPy** - Statistical calculations
 - **Excel** - Data processing
 
 ## 📊 Classification Logic
@@ -39,10 +38,6 @@ Equality scores classified into three categories:
 4. Statistical analysis and distribution
 5. Multi-dimensional visualization
 6. Generate actionable recommendations
-
-## 📁 Files
-- `equality_analysis.py` - Complete Python analysis code
-- `screenshots/` - 6-panel dashboard visualization
 
 ## 📊 Results
 Comprehensive 6-panel dashboard revealing inequality patterns across organizational hierarchy and factory locations.
