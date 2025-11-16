@@ -31,7 +31,7 @@ Frequent maintenance checks are suggested for LaserWelder machines at the Seiko 
 ## 📁 Data Summary
 - **Total Records:** ~160,000  
 - **Factories:** Tokyo (Meiyo), Osaka (Seiko), Berlin, Shenzhen  
-- **Machine Types:** 9 (CNC, LaserWelder, HeavyDutyDrill, etc.)  
+- **Machine Types:** 9 (CNC, LaserWelder, HeavyDutyDrill, AirWrench, ConveyorBelt, Furnace, MetalPress, SpotWelder and LaserCutter)  
 - **Frequency:** Every 10 minutes  
 - **Format:** Nested JSON → Flattened into DataFrame  
 
