@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -161,3 +160,4 @@ print(f"Worst Job Role: {worst_role} (Score: {worst_role_score:.1f})")
 output_file = r"C:\Deloitte Project\daikibo_telemetry_data\Equality_Analysis_Results.xlsx"
 df.to_excel(output_file, index=False)
 print(f"\nResults saved to: {output_file}")
+
