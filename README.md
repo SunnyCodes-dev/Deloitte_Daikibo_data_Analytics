@@ -30,7 +30,7 @@ These projects demonstrate end-to-end data analysis capabilities from data proce
 - LaserWelder machines were 100% responsible for failures
 - Provided actionable maintenance recommendations
 
-**Technologies:** Python, Pandas, Matplotlib, NumPy, Tableau
+**Technologies:** Python, Pandas, Matplotlib, Tableau
 
 [View Project Details →](./01-Telemetry-Analysis/)
 
@@ -48,7 +48,7 @@ These projects demonstrate end-to-end data analysis capabilities from data proce
 - Senior management roles show highest inequality
 - Identified priority areas for intervention
 
-**Technologies:** Python, Pandas, Matplotlib, NumPy, Excel
+**Technologies:** Python, Pandas, Matplotlib, Excel
 
 [View Project Details →](./02-Gender-Pay-Equality/)
 
@@ -65,10 +65,10 @@ These projects demonstrate end-to-end data analysis capabilities from data proce
 
 ## Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, Matplotlib)
 - Tableau
 - Excel
-- Git & GitHub
+- GitHub
 
 ---
 
