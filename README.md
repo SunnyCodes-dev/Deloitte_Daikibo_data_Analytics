@@ -8,7 +8,7 @@ Completed as part of the **Deloitte Australia Data Analytics Virtual Experience 
 
 ## About These Projects
 
-These projects demonstrate end-to-end data analysis capabilities from data processing to actionable business insights. Both projects were completed using Python, with additional Tableau visualizations for the telemetry analysis.
+These projects demonstrate end-to-end data analysis capabilities from data processing to actionable business insights. Both projects were completed using Python, with additional Tableau visualizations and Excel for the telemetry analysis.
 
 **Program:** Deloitte Australia Data Analytics Job Simulation  
 **Platform:** Forage  
